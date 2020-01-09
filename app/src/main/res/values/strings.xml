@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name" translatable="false">Movie Catalogue App</string>
+
+    <string name="language">Change Language</string>
+    <string name="movie">Movie</string>
+    <string name="tvShow">Tv Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="gambar_banner">Gambar Banner</string>
+    <string name="gambarposter">Gambar Poster</string>
+    <string name="judul">Judul</string>
+    <string name="Released">Tanggal Rilis :</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="setting">Setting</string>
+    <string name="tab1">Movie</string>
+    <string name="tab2">Tv Show</string>
+    <string name="search">Search</string>
+
+    <string name="appwidget_text">Favorite Movies</string>
+    <string name="empty_text">Kosong</string>
+
+    <string name="daily_reminder_message">Check the Catalogue Now</string>
+    <string name="todays_movie_release">Today\'s Movie Release</string>
+    <string name="todays_tv_show_release">Today\'s Tv Show Release</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language">Ganti Bahasa</string>
+    <string name="movie">Film</string>
+    <string name="tvShow">Acara Tv</string>
+    <string name="favorite">Favorit</string>
+    <string name="gambar_banner">Gambar Banner</string>
+    <string name="gambarposter">Gambar Poster</string>
+    <string name="judul">Judul</string>
+    <string name="Released">Tanggal Rilis :</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="setting">Pengaturan</string>
+    <string name="tab1">Film Favorit</string>
+    <string name="tab2">Acara Tv Favorit</string>
+    <string name="search">Cari</string>
+    <string name="appwidget_text">Favorit Film</string>
+    <string name="empty_text">Kosong</string>
+
+    <string name="daily_reminder_message">Periksa Katalog Sekarang</string>
+    <string name="todays_movie_release">Rilis Film Hari Ini</string>
+    <string name="todays_tv_show_release">Rilis Acara Tv Hari Ini</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language">Change Language</string>
+    <string name="movie">Movie</string>
+    <string name="tvShow">Tv Show</string>
+    <string name="favorite">Favorite</string>
+    <string name="gambar_banner">Banner Image</string>
+    <string name="gambarposter">Poster Image</string>
+    <string name="judul">Title</string>
+    <string name="Released">Release Date :</string>
+    <string name="sinopsis">Overview</string>
+    <string name="setting">Setting</string>
+    <string name="tab1">Movie Favorite</string>
+    <string name="tab2">Tv Show Favorite</string>
+    <string name="search">Search</string>
+    <string name="appwidget_text">Favorite Movies</string>
+    <string name="empty_text">Empty</string>
+
+    <string name="daily_reminder_message">Check the Catalogue Now</string>
+    <string name="todays_movie_release">Today\'s Movie Release</string>
+    <string name="todays_tv_show_release">Today\'s Tv Show Release</string>
+</resources>
